@@ -3,7 +3,7 @@
 project_name/
 │
 ├── data/
-│   ├── data_E.csv        # Time-series data for class E
+│   ├── data_E.csv        # Time-series data for class E 
 │   ├── data_NE.csv       # Time-series data for class NE
 │   └── README.md         # Details about the dataset
 ├── src/
